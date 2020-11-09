@@ -2,4 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This was added .....MASTER 2222...."
+echo "This was added ....."
+echo "First Added"
